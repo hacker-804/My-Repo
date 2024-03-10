@@ -1,2 +1,9 @@
 cout<< "Malaika Tanveer Iqbal";
 cout<< "23-ST-049";
+
+
+
+
+cout<<"Adding two numbers"<<a+b;
+cout<<endl;
+
